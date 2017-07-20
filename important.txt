@@ -1,0 +1,148 @@
+Our Speakers part
+
+
+
+
+
+<div class="container no-padding gridgallery">
+                        <!-- Portfolio Header Text -->
+                        <div class="row">
+                            <div class="col-md-12 padding-vert-30">
+                                <h2 class="subtitle text-center">Our Speakers</h2>
+                                <h3 class="subtitle text-center">Brief Intro Here!</h3>
+                            </div>
+                        </div>
+                        <!-- End Portfolio Header Text -->
+                        <!-- Portfolio Images -->
+                        <div >
+                            <!-- Portfolio Item -->
+                            <div class="portfolio-item col-md-3 col-sm-6 col-xs-6 animate fadeInUp">
+                                <div class="image-hover" style="border: 4px solid #d1d1d1 !important;">
+                                    <a href="#">
+                                        <figure>
+                                            <img src="http://placehold.it/224.5x146.41" alt="image1">
+                                            <figcaption>
+                                                <h3>Quam putamus</h3>
+                                                <span>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam.</span>
+                                            </figcaption>
+                                        </figure>
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- //Portfolio Item// -->
+                            <!-- Portfolio Item -->
+                            <div class="portfolio-item col-md-3 col-sm-6 col-xs-6 animate fadeInUp">
+                                <div class="image-hover" style="border: 4px solid #d1d1d1 !important;">
+                                    <a href="#">
+                                        <figure>
+                                            <img src="http://placehold.it/224.5x146.41" alt="image2">
+                                            <figcaption>
+                                                <h3>Quam putamus</h3>
+                                                <span>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam.</span>
+                                            </figcaption>
+                                        </figure>
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- //Portfolio Item// -->
+                            <!-- Portfolio Item -->
+                            <div class="portfolio-item col-md-3 col-sm-6 col-xs-6 animate fadeInUp">
+                                <div class="image-hover" style="border: 4px solid #d1d1d1 !important;">
+                                    <a href="#">
+                                        <figure>
+                                            <img src="http://placehold.it/224.5x146.41" alt="image3">
+                                            <figcaption>
+                                                <h3>Quam putamus</h3>
+                                                <span>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam.</span>
+                                            </figcaption>
+                                        </figure>
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- //Portfolio Item// -->
+                            <!-- Portfolio Item -->
+                            <div class="portfolio-item col-md-3 col-sm-6 col-xs-6 animate fadeInUp">
+                                <div class="image-hover" style="border: 4px solid #d1d1d1 !important;">
+                                    <a href="#">
+                                        <figure>
+                                            <img src="http://placehold.it/224.5x146.41" alt="image4">
+                                            <figcaption>
+                                                <h3>Quam putamus</h3>
+                                                <span>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam.</span>
+                                            </figcaption>
+                                        </figure>
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- //Portfolio Item// -->
+                            <!-- Portfolio Item -->
+                            <div class="portfolio-item col-md-3 col-sm-6 col-xs-6 animate fadeInUp">
+                                <div class="image-hover" style="border: 4px solid #d1d1d1 !important;">
+                                    <a href="#">
+                                        <figure>
+                                            <img src="http://placehold.it/224.5x146.41" alt="image5">
+                                            <figcaption>
+                                                <h3>Quam putamus</h3>
+                                                <span>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam.</span>
+                                            </figcaption>
+                                        </figure>
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- //Portfolio Item// -->
+                            <!-- Portfolio Item -->
+                            <div class="portfolio-item col-md-3 col-sm-6 col-xs-6 animate fadeInUp">
+                                <div class="image-hover" style="border: 4px solid #d1d1d1 !important;">
+                                    <a href="#">
+                                        <figure>
+                                            <img src="http://placehold.it/224.5x146.41" alt="image6">
+                                            <figcaption>
+                                                <h3>Quam putamus</h3>
+                                                <span>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam.</span>
+                                            </figcaption>
+                                        </figure>
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- //Portfolio Item// -->
+                            <!-- Portfolio Item -->
+                            <div class="portfolio-item col-md-3 col-sm-6 col-xs-6 animate fadeInUp">
+                                <div class="image-hover" style="border: 4px solid #d1d1d1 !important;">
+                                    <a href="#">
+                                        <figure>
+                                            <img src="http://placehold.it/224.5x146.41" alt="image7">
+                                            <figcaption>
+                                                <h3>Quam putamus</h3>
+                                                <span>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam.</span>
+                                            </figcaption>
+                                        </figure>
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- //Portfolio Item// -->
+                            <!-- Portfolio Item -->
+                            <div class="portfolio-item col-md-3 col-sm-6 col-xs-6 animate fadeInUp">
+                                <div class="image-hover" style="border: 4px solid #d1d1d1 !important;">
+                                    <a href="#">
+                                        <figure>
+                                            <img src="http://placehold.it/224.5x146.41" alt="image8">
+                                            <figcaption>
+                                                <h3>Quam putamus</h3>
+                                                <span>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam.</span>
+                                            </figcaption>
+                                        </figure>
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- //Portfolio Item// -->
+                            <div class="clearfix"></div>
+                        </div>
+                        <!-- End Portfolio Images -->
+                        <!-- Portfolio Footer Text -->
+                        <div class="row">
+                            <div class="col-12-md">
+                                <p class="text-center padding-bottom-30" style="max-width:690px; margin:0 auto;">Some Description here</p>
+                            </div>
+                        </div>
+                        <!-- End Portfolio Footer Text -->
+                        <!-- === END CONTENT === -->
